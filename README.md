@@ -1,6 +1,6 @@
 # 🔥 Firebase Authentication - SwiftUI Starter
 
-A clean, modern SwiftUI app that integrates **Firebase Authentication** and **Cloud Firestore** — built as the foundation for future full-stack iOS apps.
+A clean, modern SwiftUI app that integrates **Firebase Authentication** and **Cloud Firestore**, built as the foundation for future full-stack iOS apps.
 
 This project is intentionally minimal. It focuses on doing one thing well:  
 **securely registering, logging in, and managing users via Firebase**, while syncing profile data with Firestore.  
